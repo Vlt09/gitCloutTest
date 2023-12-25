@@ -1,3 +1,8 @@
+'''
+Ceci est le début d'un bloc de commentaire pour la phase test
+ceci est la suite du bloc
+ligne4
+'''
 print("1")
 print("2")
 print("3")
